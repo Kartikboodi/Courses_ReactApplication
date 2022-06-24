@@ -1,0 +1,19 @@
+.container-profile{
+    display: flex;
+    margin: 0.3rem 5rem 0.3rem 5rem;
+}
+.image-div{
+    width: 16%;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+}
+.form-div{
+    border: 1px solid;
+    height: inherit;
+    margin-left: 1%;
+    padding-left: 1rem;
+}
+.container > .form-div{
+    flex: 1;
+}

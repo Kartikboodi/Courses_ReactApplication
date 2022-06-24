@@ -1,0 +1,31 @@
+/* .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-1t29gy6-MuiToolbar-root {
+  display: flex;
+  justify-content: flex-end;
+} */
+/* button.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  margin-right: auto;
+} */
+button.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  margin-right: 5rem;
+  font-weight: bold;
+  color: lightblue;
+}
+
+.navbar{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0rem;
+}
+
+.nav-buttons {
+  margin-left: auto;
+  margin-right: 3rem;
+}
+.icon {
+  color: white;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  
+  cursor: pointer;
+  text-align: center;
+}
