@@ -1,0 +1,17 @@
+.cartContent {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: inherit;
+}
+.cartItems {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-start;
+  align-items: flex-start; */
+}
+
+.cartContent > .cartItems {
+  flex: 1;
+}

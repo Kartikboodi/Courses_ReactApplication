@@ -1,0 +1,80 @@
+[
+    {
+        "id":0,
+        "title":"Responsive Design course, How to design responsive Templates",
+        "image":"../Assets/ReactJS.jpg",
+        "videoLink":"",
+        "description":"React is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.\nReact is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.",
+        "tags":[
+            "React","React Hooks"
+        ],
+        "author":"John Morie",
+        "actualPrice":847,
+        "discountedPrice":543
+    },
+    {
+        "id":1,
+        "title":"Complete React Tutorial: UI Development",
+        "image":"./Assets/ReactJS.jpg",
+        "videoLink":"",
+        "description":"React is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.\nReact is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.",
+        "tags":[
+            "React","React Hooks","Java Script"
+        ],
+        "author":"Kartik Boodi",
+        "actualPrice":946,
+        "discountedPrice":650
+    },
+    {
+        "id":2,
+        "title":"HTML/CSS Course: Learn HTML5 and CSS3 from Scratch",
+        "image":"./Assets/HTML.jpg",
+        "videoLink":"",
+        "description":"React is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.\nReact is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.",
+        "tags":[
+            "HTML5","CSS3"
+        ],
+        "author":"Ishtarth Chintu",
+        "actualPrice":986,
+        "discountedPrice":550
+    },
+    {
+        "id":3,
+        "title":"Responsive Design Templates",
+        "image":"./Assets/ReactJS.jpg",
+        "videoLink":"",
+        "description":"React is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.\nReact is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.",
+        "tags":[
+            "React","React Hooks"
+        ],
+        "author":"John Morie",
+        "actualPrice":847,
+        "discountedPrice":600
+    },
+    {
+        "id":4,
+        "title":"Responsive Design : Learn React from Scratch",
+        "image":"./Assets/ReactJS.jpg",
+        "videoLink":"",
+        "description":"React is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.\nReact is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.",
+        "tags":[
+            "React","React Hooks"
+        ],
+        "author":"John Morie",
+        "actualPrice":980,
+        "discountedPrice":543
+    },
+    {
+        "id":5,
+        "title":"HTML/CSS Course: Learn HTML5 and CSS3 from Scratch",
+        "image":"./Assets/HTML.jpg",
+        "videoLink":"",
+        "description":"React is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.\nReact is a view library to develop single page applications in Javascript.\n It is the most popular library backed by Facebook.\n With React library, you can develop dynamic frontend applications which come with great features like component architecture, data binding, declarative views, universal apps.",
+        "tags":[
+            "React","React Hooks"
+        ],
+        "author":"John Morie",
+        "actualPrice":847,
+        "discountedPrice":543
+    }
+]

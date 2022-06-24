@@ -1,0 +1,48 @@
+
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container > .list {
+  flex: 3;
+}
+
+.list{
+  width: auto;
+}
+
+.cartComponent {
+  width: 25%;
+  height: 30rem;
+}
+
+.topdiv {
+  margin: 0;
+  padding-left: 2%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: x-small;
+}
+
+.div-field {
+  margin-left: auto;
+  margin-right: 2%;
+  width: 15%;
+  max-height: 2rem;
+  font-size: 10;
+}
+.MuiFormControl-root.MuiTextField-root.div-field.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  width: 22%;
+  font-size: x-small;
+}
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  height: 2rem;
+  /* width: 25%; */
+}

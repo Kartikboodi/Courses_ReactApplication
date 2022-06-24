@@ -1,0 +1,70 @@
+.titleCard{
+    background-color: black;
+    height: 10rem;
+    padding: 0.3rem 5rem 0rem 5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    max-width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.courseName{
+    color: white;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.tag{
+    background-color: antiquewhite;
+    color: thistle;
+}
+/* 
+.titleCard > div{
+    flex: 1;
+} */
+.lower-div{
+    display: flex;
+}
+.desc{
+    margin-left:5rem ;
+    margin-top: 1rem;
+    width: 55%;
+    height: fit-content;
+    padding: 1%;
+    display: inline-block;
+    /* border: 0.01rem solid;
+    border-radius: 0.2rem; */
+}
+
+.media-div{
+    display: flex;
+    justify-content: center;
+    width: 45%;
+    /* padding-top: 20%; */
+}
+
+.mediaCard{
+    border: 2px gray groove;
+    margin-left: auto;
+    width: 75%; /*26rem;*/
+    height: 150%; /*14em;*/
+    margin-top: 5%;
+    visibility:visible;
+
+}
+.rateCard{
+    margin-left: 2%;
+    margin-right: 5rem;
+    padding-left: 1%;
+    width: 30%;
+    height: 11rem;
+    border: outset;
+    box-shadow: 0 0 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
